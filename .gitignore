@@ -143,3 +143,15 @@ Loader/ISERV.Loader.Console/obj/Debug/net8.0/ISERV.Loader.Console.csproj.Assembl
 Loader/ISERV.Loader.Console/obj/ISERV.Loader.Console.csproj.nuget.dgspec.json
 Loader/ISERV.Loader.Console/obj/project.assets.json
 Loader/ISERV.Loader.Console/obj/project.nuget.cache
+UI/ISERV.UI.API/obj/Debug/net8.0/ISERV.UI.API.csproj.AssemblyReference.cache
+UI/ISERV.UI.API/obj/Debug/net8.0/ISERV.UI.API.AssemblyInfoInputs.cache
+UI/ISERV.UI.API/obj/Debug/net8.0/ISERV.UI.API.AssemblyInfo.cs
+Persistence/ISERV.Persistence.EFMigrations/obj/Debug/net8.0/ISERV.Persistence.EFMigration.csproj.AssemblyReference.cache
+Persistence/ISERV.Persistence.EFMigrations/obj/Debug/net8.0/ISERV.Persistence.EFMigration.AssemblyInfoInputs.cache
+Persistence/ISERV.Persistence.EFMigrations/obj/Debug/net8.0/ISERV.Persistence.EFMigration.AssemblyInfo.cs
+Persistence/ISERV.Persistence.EF/obj/Debug/net8.0/ISERV.Persistence.EF.csproj.AssemblyReference.cache
+Persistence/ISERV.Persistence.EF/obj/Debug/net8.0/ISERV.Persistence.EF.AssemblyInfoInputs.cache
+Persistence/ISERV.Persistence.EF/obj/Debug/net8.0/ISERV.Persistence.EF.AssemblyInfo.cs
+Loader/ISERV.Loader.Console/obj/Debug/net8.0/ISERV.Loader.Console.csproj.AssemblyReference.cache
+Loader/ISERV.Loader.Console/obj/Debug/net8.0/ISERV.Loader.Console.AssemblyInfoInputs.cache
+Loader/ISERV.Loader.Console/obj/Debug/net8.0/ISERV.Loader.Console.AssemblyInfo.cs
