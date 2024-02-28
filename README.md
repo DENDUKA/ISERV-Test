@@ -1,0 +1,16 @@
+1) ConnectionString поправить в
+  \UI\ISERV.UI.API\appsettings.json
+  \Persistence\ISERV.Persistence.EFMigrations\appsettings.json
+  \Loader\ISERV.Loader.Console\appsettings.json
+
+2) Создать БД :
+   запустить приложение "ISERV.Persistence.EFMigration"
+   
+3) Запусить загрузку с сайта
+   в файле "\Loader\ISERV.Loader.Console\appsettings.json" изменить количесво потоков
+   запустить приложение "ISERV.Loader.Console"
+
+4) API для поиска по Country , Name
+   Запустить "ISERV.UI.API" (на SwaggerUI)
+
+5) Скрипт БД : "schema_bd.sql"
