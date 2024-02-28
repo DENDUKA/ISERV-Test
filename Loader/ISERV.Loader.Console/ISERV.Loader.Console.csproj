@@ -17,8 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\ISERV.HipolabsAPI\ISERV.API.HipolabsAPI.csproj" />
-    <ProjectReference Include="..\..\ISERV.Persistence.EF\ISERV.Persistence.EF.csproj" />
+    <ProjectReference Include="..\..\API\ISERV.HipolabsAPI\ISERV.API.HipolabsAPI.csproj" />
+    <ProjectReference Include="..\..\Persistence\ISERV.Persistence.EF\ISERV.Persistence.EF.csproj" />
   </ItemGroup>
 
   <ItemGroup>

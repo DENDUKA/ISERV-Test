@@ -20,6 +20,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Domain\ISERV.Domain.Entities\ISERV.Domain.Entities.csproj" />
+    <ProjectReference Include="..\..\ISERV.Persistence.EF\ISERV.Persistence.EF.csproj" />
     <ProjectReference Include="..\ISERV.Persistence.EF\ISERV.Persistence.EF.csproj" />
   </ItemGroup>
 

@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\ISERV.Persistence.EF\ISERV.Persistence.EF.csproj" />
+    <ProjectReference Include="..\..\Persistence\ISERV.Persistence.EF\ISERV.Persistence.EF.csproj" />
   </ItemGroup>
 
 </Project>
